@@ -1,0 +1,13 @@
+{
+  "name": "simple-node-ffmpeg-api",
+  "version": "0.1.0",
+  "description": "ffmpeg API for nodejs",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
